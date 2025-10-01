@@ -35,10 +35,6 @@ I am a 19-year-old student passionate about **cybersecurity** and **network admi
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [Adria Julian](https://www.linkedin.com/in/adria-julian)  
-- GitHub: [adriajulian](https://github.com/adriajulian)  
-
 ---
 
 > “Passionate about cybersecurity, curious about new technologies, and committed to protecting digital environments.”
