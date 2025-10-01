@@ -1,4 +1,4 @@
-# Hi, I'm Adria Julian 👋
+**# Hi, I'm Adria Julian 👋
 
 I am a 19-year-old student passionate about **network administration** and **cybersecurity**, with a particular focus on **Purple Team operations**—bridging the gap between offensive and defensive security. I enjoy learning new technologies, building secure networks, and contributing to projects that make digital environments safer.  
 
@@ -77,3 +77,4 @@ I am a 19-year-old student passionate about **network administration** and **cyb
 
 ## 📊 GitHub Stats
 ![Adria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriajulian&show_icons=true&theme=dark&count_private=true)
+**
