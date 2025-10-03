@@ -53,7 +53,6 @@ Building a career at the intersection of networks, systems and security. I creat
 ---
 
 ## 🔭 Projects & Labs (examples — link your repos)
-> These are the types of projects I publish — link your repos below.
 
 - **Lab: Red vs Blue** — Simulated attack & defense environment (Kali vs Windows/Ubuntu, detection with Wazuh/ELK).  
   Repository: `github.com/AJulianSec/lab-red-vs-blue` *(placeholder — add link)*
@@ -68,9 +67,16 @@ Building a career at the intersection of networks, systems and security. I creat
 
 ## 📊  Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJulianSec&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJulianSec&layout=compact&theme=dark)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=AJulianSec&show_icons=true&count_private=true&theme=dark)
---
+
+---
+
+## 🏆 TryHackMe
+
+[![TryHackMe badge](./thm-badge.png)](https://tryhackme.com/p/AJulianSec)
+
+---
 
 ## 🔖 Badges (Certifications & Tools)
 
@@ -80,10 +86,6 @@ Building a career at the intersection of networks, systems and security. I creat
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel%20Expert-green?style=flat&logo=microsoft-excel)
 ![Oracle DB](https://img.shields.io/badge/Oracle-Database%20Associate-red?style=flat&logo=oracle)
 ![Python](https://img.shields.io/badge/Python-Scripting%20(Learn)-blue?style=flat&logo=python)
-
-
-
-*(You can swap these badges for official badge images or icons you prefer — badges are purely visual and optional.)*
 
 ---
 
@@ -105,5 +107,3 @@ Building a career at the intersection of networks, systems and security. I creat
 - LinkedIn: https://www.linkedin.com/in/your-linkedin  
 - Portfolio: https://your-portfolio.example  
 - GitHub: https://github.com/AJulianSec
-
----
