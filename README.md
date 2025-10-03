@@ -83,6 +83,8 @@ Building a career at the intersection of networks, systems and security. I creat
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel%20Expert-green?style=flat&logo=microsoft-excel)
 ![Oracle DB](https://img.shields.io/badge/Oracle-Database%20Associate-red?style=flat&logo=oracle)
 ![Python](https://img.shields.io/badge/Python-Scripting%20(Learn)-blue?style=flat&logo=python)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-orange?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/AJulianSec)
+
 
 *(You can swap these badges for official badge images or icons you prefer — badges are purely visual and optional.)*
 
