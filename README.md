@@ -70,8 +70,8 @@ Building a career at the intersection of networks, systems and security. I creat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJulianSec&layout=compact&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=AJulianSec&show_icons=true&count_private=true&theme=dark)
-![[Stats](https://img.shields.io/badge/TryHackMe-Profile-orange?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/AJulianSec)
-> If these cards don’t render immediately, make sure the repo name is **exactly** `AJulianSec` and that your profile README is committed.
+![[Stats]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4379011" style='border:none;'></iframe>
+ If these cards don’t render immediately, make sure the repo name is **exactly** `AJulianSec` and that your profile README is committed.
 
 ---
 
