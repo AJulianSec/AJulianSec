@@ -1,39 +1,18 @@
 # 👋 Hi — I'm Adrià Julián (AJulianSec)
 
 **Student · ASIR (Systems Administration) | Cybersecurity & Networks Enthusiast**  
-Building a career at the intersection of networks, systems and security. I create labs, automate workflows with Python and build detection/playbooks for SIEMs. Open to internships and collaborative projects.
-
-[📄 Download CV](./assets/cv.pdf) · [✉️ Email](mailto:adriajuliansuria@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/your-linkedin) · [🌐 Portfolio](https://your-portfolio.example)
+Building a career at the intersection of networks, systems, and security. I create labs, automate workflows with Python, and build detection/playbooks for SIEMs. Open to internships and collaborative projects.
 
 ---
 
-## 🎯 Quick facts
-- Location: Molins de Rei (Barcelona), Spain  
+## 🎯 Quick Facts
 - Current: Studying **ASIR (Ciclo Superior)** with a profile in **Cybersecurity**  
 - Focus: Purple-Team (Red + Blue) — network security, SIEM, Linux, Windows, automation with Python
 
 ---
 
-## 🛠️ Skills
 
-**Networks & Infra**
-- CCNA fundamentals, VLANs, routing (OSPF), NAT, ACLs, switching concepts  
-- DHCP, DNS, Samba, Active Directory basics
-
-**Security**
-- Firewall fundamentals (Palo Alto, Fortinet concepts), IDS/IPS (Suricata/Snort), hardening, incident response basics  
-- Pentesting basics: Nmap, Burp, Metasploit, OWASP top vulnerabilities
-
-**Dev / Automation**
-- Python (scripting for log parsing & automation), Bash, Git  
-- Docker, Virtualization (VirtualBox / KVM / Proxmox)
-
-**Data & Monitoring**
-- MySQL / MariaDB basics, SIEM: ELK / Wazuh (setup, basic detection rules), Splunk fundamentals
-
----
-
-## ✅ Certifications (completed)
+## ✅ Certifications (Completed)
 - **Pearson IT Specialist — Device and Management**  
 - **Fortinet — Cybersecurity Associate**  
 - **Fortinet — Cybersecurity Fundamentals**  
@@ -41,40 +20,27 @@ Building a career at the intersection of networks, systems and security. I creat
 - **Microsoft Office Specialist: Excel Expert (2019)**  
 - **Microsoft Office Specialist: Access Expert (2019)**
 
-## 🚧 Certifications (in progress / planned)
-- **CCST (Cisco Certified Support Technician)** — Networking & Cybersecurity (in progress)  
-- **CCNA (Cisco Certified Network Associate)** — planned / in training  
-- **Oracle Database Associate** — planned  
-- **Palo Alto Cybersecurity Fundamentals** — planned  
-- **Python (professional learning path)** — planned
-
-> _Tip: replace the “in progress” & “planned” items with completion dates or badges once you pass the exams._
+---
 
 ---
 
-## 🔭 Projects & Labs (examples — link your repos)
+## 🔭 Projects & Labs
 
-- **Lab: Red vs Blue** — Simulated attack & defense environment (Kali vs Windows/Ubuntu, detection with Wazuh/ELK).  
-  Repository: `github.com/AJulianSec/lab-red-vs-blue` *(placeholder — add link)*
-
-- **SIEM Demo** — ELK + Filebeat pipelines, detection rules and dashboards (use cases + Sigma rules).  
-  Repository: `github.com/AJulianSec/siem-demo` *(placeholder — add link)*
-
-- **Infrastructure Virtual** — Automated Ubuntu Server services: LDAP, MySQL, Nginx, OpenVPN (Ansible playbooks).  
-  Repository: `github.com/AJulianSec/infra-virtual` *(placeholder — add link)*
+### 1. **CyberShield Encryptor — Blue Team Tool**
+**Description:** Educational and ethical cybersecurity tool for password strength evaluation, brute-force estimation, and text encryption/decryption (Caesar, XOR, AES).  
+**Repository:** [CyberShield Encryptor](https://github.com/AJulianSec/CyberShield-BlueTeam-Tool)  
+**Highlights:**
+- Password complexity checker with suggestions
+- Brute-force time estimator for different attacker profiles
+- Encrypt/decrypt text using multiple algorithms
+- GUI built with Python & ttkbootstrap (resizable and modern interface)
 
 ---
 
-## 📊  Stats
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJulianSec&layout=compact&theme=dark)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=AJulianSec&show_icons=true&count_private=true&theme=dark)
-
----
-
-## 🏆 TryHackMe
-
-[![TryHackMe badge](./thm-badge.png)](https://tryhackme.com/p/AJulianSec)
 
 ---
 
@@ -89,21 +55,14 @@ Building a career at the intersection of networks, systems and security. I creat
 
 ---
 
-## 📚 Learning & Labs (what I'm studying now)
-- Preparing for **CCNA** (routing, switching, VLANs, subnetting) — hands-on in Packet Tracer & GNS3  
-- Building Purple-Team labs: Kali → Windows AD → Wazuh/ELK detections → automation with Python  
-- Learning Oracle SQL and expanding database hardening knowledge
-
----
-
-## 💼 What I'm looking for
-- Internships or junior roles in **Network Administration**, **SOC / Security Operations**, or **Junior Penetration Testing**.  
-- Collaborative open-source projects for SIEM rules, automation scripts, or vulnerable web apps for training.
-
----
-
 ## 📫 Contact
+
 - Email: adriajuliansuria@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin  
-- Portfolio: https://your-portfolio.example  
-- GitHub: https://github.com/AJulianSec
+- LinkedIn: [https://www.linkedin.com/in/adriajulian/](https://www.linkedin.com/in/adriajulian/)  
+- Portfolio: [http://adriajulian.com](http://adriajulian.com/)  
+- GitHub: [https://github.com/AJulianSec](https://github.com/AJulianSec)
+
+---
+
+> 💡 **Tip:** Keep updating your README with completed certifications, project links, and portfolio pieces to maintain a professional online presence.
+
