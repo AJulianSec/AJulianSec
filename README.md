@@ -23,16 +23,33 @@ Open to internships and collaborative projects.
 
 ---
 
-## 🚀 Projects & Labs
+## 🚀 Featured Project
 
-### 🔹 [CyberShield Encryptor — Blue Team Tool](https://github.com/AJulianSec/CyberShield-BlueTeam-Tool)
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/assets/cybershield_encryptor.png" width="95%" alt="CyberShield Encryptor">
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ CyberShield Encryptor — Blue Team Tool
 **Educational and ethical cybersecurity tool** for password strength evaluation, brute-force estimation, and text encryption/decryption (Caesar, XOR, AES).  
 
-**Key Features**
-- Password complexity checker with strength meter and suggestions  
-- Realistic brute-force time estimator (PC / GPU / Cluster)  
+**Key Features:**
+- Password complexity checker with real-time feedback  
+- Brute-force time estimator (PC / GPU / Cluster profiles)  
 - Multiple encryption algorithms: Caesar, XOR, AES-128/256  
-- Built with **Python + ttkbootstrap** — modern, resizable GUI  
+- Modern Python GUI built with **ttkbootstrap**
+
+<br>
+
+<a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool" target="_blank">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,5 +77,6 @@ Open to internships and collaborative projects.
 - 💼 **LinkedIn:** [linkedin.com/in/adriajulian](https://www.linkedin.com/in/adriajulian/)  
 - 🌐 **Portfolio:** [adriajulian.com](http://adriajulian.com/)  
 - 🧑‍💻 **GitHub:** [github.com/AJulianSec](https://github.com/AJulianSec)
+
 
 
