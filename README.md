@@ -25,7 +25,7 @@ Building a career at the intersection of networks, systems, and security. I crea
 
 | Project | Description | Link |
 |----------|--------------|------|
-| <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor.png" width="320px" alt="CyberShield Encryptor"/> | **CyberShield Encryptor — Blue Team Tool**<br>Educational and ethical cybersecurity app for password strength evaluation, brute-force estimation, and text encryption/decryption (Caesar, XOR, AES).<br><br>🧩 *Built with Python & ttkbootstrap (modern UI)*<br>🔐 *AES/XOR/Caesar algorithms included* | <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool" target="_blank"><img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repo"></a> |
+| <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg" width="320px" alt="CyberShield Encryptor"/> | **CyberShield Encryptor — Blue Team Tool**<br>Educational and ethical cybersecurity app for password strength evaluation, brute-force estimation, and text encryption/decryption (Caesar, XOR, AES).<br><br>🧩 *Built with Python & ttkbootstrap (modern UI)*<br>🔐 *AES/XOR/Caesar algorithms included* | <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool" target="_blank"><img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repo"></a> |
 
 ---
 
