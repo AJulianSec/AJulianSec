@@ -49,10 +49,10 @@ Building a career at the intersection of networks, systems, and security. I crea
 
 ## 📫 Contact
 
-- Email: adriajuliansuria@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/adriajulian/](https://www.linkedin.com/in/adriajulian/)  
-- Portfolio: [[http://adriajulian.com](http://adriajulian.com/)](https://www.adriajulian.com/)  
-- GitHub: [https://github.com/AJulianSec](https://github.com/AJulianSec)
+📧 **Email:** [adriajuliansuria@gmail.com](mailto:adriajuliansuria@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/adriajulian](https://www.linkedin.com/in/adriajulian/)  
+🌐 **Portfolio:** [adriajulian.com](https://www.adriajulian.com/)  
+🐙 **GitHub:** [github.com/AJulianSec](https://github.com/AJulianSec)
 
 
 
