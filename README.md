@@ -11,7 +11,7 @@ Building a career at the intersection of networks, systems, and security. I crea
 
 ---
 
-## ✅ Certifications (Completed)
+##  Certifications (Completed)
 - **Pearson IT Specialist — Device and Management**  
 - **Fortinet — Cybersecurity Associate**  
 - **Fortinet — Cybersecurity Fundamentals**  
@@ -29,14 +29,14 @@ Building a career at the intersection of networks, systems, and security. I crea
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJulianSec&layout=compact&theme=dark)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=AJulianSec&show_icons=true&count_private=true&theme=dark)
 
 ---
 
-## 🔖 Badges (Certifications & Tools)
+##  Badges (Certifications & Tools)
 
 ![Pearson IT Specialist](https://img.shields.io/badge/Pearson-IT%20Specialist-blue?style=flat&logo=pearson)
 ![Fortinet CA](https://img.shields.io/badge/Fortinet-Cybersec%20Associate-red?style=flat&logo=fortinet)
@@ -47,7 +47,7 @@ Building a career at the intersection of networks, systems, and security. I crea
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📧 **Email:** [adriajuliansuria@gmail.com](mailto:adriajuliansuria@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/adriajulian](https://www.linkedin.com/in/adriajulian/)  
