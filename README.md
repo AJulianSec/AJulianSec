@@ -51,7 +51,7 @@ Building a career at the intersection of networks, systems, and security. I crea
 
 - Email: adriajuliansuria@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/adriajulian/](https://www.linkedin.com/in/adriajulian/)  
-- Portfolio: [http://adriajulian.com](http://adriajulian.com/)  
+- Portfolio: [[http://adriajulian.com](http://adriajulian.com/)](https://www.adriajulian.com/)  
 - GitHub: [https://github.com/AJulianSec](https://github.com/AJulianSec)
 
 
