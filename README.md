@@ -1,4 +1,4 @@
-# 👋 Hi — I'm Adrià Julián (AJulianSec)
+#  Hi — I'm Adrià Julián (AJulianSec)
 
 **Student · ASIR (Systems Administration) | Cybersecurity & Networks Enthusiast**  
 Building a career at the intersection of networks, systems, and security. I create labs, automate workflows with Python, and build detection/playbooks for SIEMs. Open to internships and collaborative projects.
