@@ -24,7 +24,7 @@ Open to internships and collaborative projects.
 
 ---
 
-# 🧪 Projects & Labs
+#  Projects & Labs
 
 This repository showcases my **cybersecurity and networking projects**, including educational tools, labs, and ethical hacking exercises.  
 All projects are **for learning and authorized use only**.
