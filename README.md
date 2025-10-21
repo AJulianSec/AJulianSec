@@ -21,13 +21,9 @@ Building a career at the intersection of networks, systems, and security. I crea
 
 ---
 
-## 🔭 Projects & Labs
+## 🔭 Projects & Labs                                                                                      
 
-                                                                                                                                                       |                                                                                           
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 
 ---
 
