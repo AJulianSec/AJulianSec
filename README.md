@@ -24,7 +24,7 @@ Open to internships and collaborative projects.
 
 ---
 
-# 🧪 Projects & Labs
+## 🧪 Projects & Labs
 
 This repository showcases my **cybersecurity and networking projects**, including educational tools, labs, and ethical hacking exercises.  
 All projects are **for learning and authorized use only**.
@@ -33,34 +33,11 @@ All projects are **for learning and authorized use only**.
 
 ## 🔹 Featured Projects
 
----
+| Project | Description | Technologies | Link |
+|---------|-------------|-------------|------|
+| ![CyberShield](https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg)<br>**CyberShield Encryptor** | Educational tool to **assess password strength**, estimate **brute-force times**, and encrypt/decrypt text (Caesar, XOR, AES). Ideal for **defensive labs and cybersecurity learning**. | Python, ttkbootstrap (modern UI) | [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AJulianSec/CyberShield-BlueTeam-Tool) |
+| ![Sentinel Scan](https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg)<br>**Sentinel Scan** | Lightweight **network and vulnerability scanner**. Performs TCP/UDP scans, basic service detection, and vulnerability estimation using local signatures. Exports results to JSON/CSV. | Python, asyncio, socket | [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AJulianSec/SentinelScan) |
 
-### 1️⃣ CyberShield Encryptor
-![CyberShield](https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg)
-**Description:**  
-Educational tool to **assess password strength**, estimate **brute-force times**, and encrypt/decrypt text (Caesar, XOR, AES).  
-Ideal for **defensive labs and cybersecurity learning**.  
-
-**Technologies:** Python, ttkbootstrap (modern UI)  
-
-**Repository:**  
-[![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJulianSec/CyberShield-BlueTeam-Tool)
-
----
-
-### 2️⃣ Sentinel Scan
-![Sentinel](https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg)
-**Description:**  
-Lightweight **network and vulnerability scanner**.  
-Performs TCP/UDP scans, basic service detection, and vulnerability estimation using local signatures.  
-Exports results to JSON/CSV.  
-
-**Technologies:** Python, asyncio, socket  
-
-**Repository:**  
-[![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJulianSec/SentinelScan)
-
----
 
 ## 🔗 More Projects
 
