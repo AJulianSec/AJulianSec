@@ -53,7 +53,7 @@ All projects are **for learning and authorized use only**.
     <td align="center" style="padding:15px; background-color:#0d1117;">Python, ttkbootstrap (modern UI)</td>
     <td align="center" style="padding:15px; background-color:#0d1117;">
       <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">
-        <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" height="50">
+        <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" height="60">
       </a>
     </td>
   </tr>
@@ -71,7 +71,7 @@ All projects are **for learning and authorized use only**.
     <td align="center" style="padding:15px; background-color:#0d1117;">Python, asyncio, socket</td>
     <td align="center" style="padding:15px; background-color:#0d1117;">
       <a href="https://github.com/AJulianSec/SentinelScan">
-        <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" height="50">
+        <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" height="60">
       </a>
     </td>
   </tr>
@@ -83,7 +83,9 @@ All projects are **for learning and authorized use only**.
 
 To explore all my repositories, click below:
 
-[![GitHub Repos](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/AJulianSec?tab=repositories)
+<a href="https://github.com/AJulianSec?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" height="60">
+</a>
 
 ---
 
@@ -112,7 +114,6 @@ To explore all my repositories, click below:
 🌐 **Portfolio:** [adriajulian.com](https://www.adriajulian.com/)  
 🐙 **GitHub:** [github.com/AJulianSec](https://github.com/AJulianSec)
 
----
 
 
 
