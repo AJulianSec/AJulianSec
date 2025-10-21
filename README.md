@@ -44,7 +44,7 @@ All projects are **for learning and authorized use only**.
   <tr>
     <td align="center" style="padding:15px; background-color:#0d1117;">
       <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg" width="300"><br>
-      <b>CyberShield Encryptor</b>
+      <b></b>
     </td>
     <td style="padding:15px; background-color:#0d1117;">
       Educational tool to <b>assess password strength</b>, estimate <b>brute-force times</b>, and encrypt/decrypt text (Caesar, XOR, AES).  
@@ -61,7 +61,7 @@ All projects are **for learning and authorized use only**.
   <tr>
     <td align="center" style="padding:15px; background-color:#0d1117;">
       <img src="https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg" width="300"><br>
-      <b>Sentinel Scan</b>
+      <b></b>
     </td>
     <td style="padding:15px; background-color:#0d1117;">
       Lightweight <b>network and vulnerability scanner</b>.  
