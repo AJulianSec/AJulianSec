@@ -24,9 +24,6 @@ Building a career at the intersection of networks, systems, and security. I crea
 ## 🔭 Projects & Labs
 
                                                                                                                                                        |                                                                                           
-# Projects & Labs
-
-This repository showcases my cybersecurity and network-related projects, including tools for learning, labs, and ethical hacking exercises. All projects are developed for educational purposes and authorized use only.
 
 ---
 
