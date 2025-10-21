@@ -21,7 +21,27 @@ Building a career at the intersection of networks, systems, and security. I crea
 
 ---
 
-## 🔭 Projects & Labs                                                                                      
+# Projects & Labs
+
+This repository showcases my **cybersecurity and networking projects**, including educational tools, labs, and ethical hacking exercises. All projects are **for learning and authorized use only**.
+
+---
+
+## 🔹 Featured Projects
+
+| Project | Description | Technologies | Link |
+|---------|-------------|-------------|------|
+| **CyberShield Encryptor** <br> ![CyberShield Encryptor](https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg) | Educational tool to **assess password strength**, estimate **brute-force times**, and encrypt/decrypt text (Caesar, XOR, AES). Ideal for **defensive labs and cybersecurity learning**. | Python, ttkbootstrap (modern UI) | [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AJulianSec/CyberShield-BlueTeam-Tool) |
+| **Sentinel Scan** <br> ![Sentinel Scan](https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg) | Lightweight **network and vulnerability scanner**. Performs TCP/UDP scans, basic service detection, and vulnerability estimation using local signatures. Exports results to JSON/CSV. | Python, asyncio, socket | [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AJulianSec/SentinelScan) |
+
+---
+
+## 🔗 More Projects
+
+To explore all my repositories, click the button below:
+
+[![GitHub Repos](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/AJulianSec?tab=repositories)
+                                                                                     
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
