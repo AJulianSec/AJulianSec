@@ -1,4 +1,4 @@
-# 👋 Hi — I'm Adrià Julián (AJulianSec)
+#  Hi — I'm Adrià Julián (AJulianSec)
 
 **Student · ASIR (Systems Administration) | Cybersecurity & Networks Enthusiast**  
 Building a career at the intersection of networks, systems, and security.  
@@ -7,7 +7,7 @@ Open to internships and collaborative projects.
 
 ---
 
-## 🎯 Quick Facts
+##  Quick Facts
 - Current: Studying **ASIR (Ciclo Superior)** with a focus on **Cybersecurity**  
 - Focus: **Purple Team (Red + Blue)** — network security, SIEM, Linux, Windows, and automation with Python  
 - Passionate about: Blue Team tools, ethical hacking labs, and cyber defense automation  
@@ -96,7 +96,7 @@ To explore all my repositories, click below:
 
 ---
 
-## 🧩 Badges (Certifications & Tools)
+##  Badges (Certifications & Tools)
 
 ![Pearson IT Specialist](https://img.shields.io/badge/Pearson-IT%20Specialist-blue?style=flat&logo=pearson)
 ![Fortinet CA](https://img.shields.io/badge/Fortinet-Cybersec%20Associate-red?style=flat&logo=fortinet)
