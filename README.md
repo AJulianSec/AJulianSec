@@ -24,6 +24,9 @@ Building a career at the intersection of networks, systems, and security. I crea
 ## 🔭 Projects & Labs
 
                                                                                                                                                        |                                                                                           
+# Projects & Labs
+
+This repository showcases my cybersecurity and network-related projects, including tools for learning, labs, and ethical hacking exercises. All projects are developed for educational purposes and authorized use only.
 
 ---
 
@@ -49,6 +52,7 @@ Lightweight network scanning and vulnerability estimation tool built in Python f
 **Technologies:** Python, asyncio & socket modules
 
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AJulianSec/SentinelScan)
+
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 
