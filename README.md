@@ -1,122 +1,273 @@
-#  Hi — I'm Adrià Julián (AJulianSec)
 
-**Student · ASIR (Systems Administration) | Cybersecurity & Networks Enthusiast**  
-Building a career at the intersection of networks, systems, and security.  
-I create labs, automate workflows with Python, and build detections/playbooks for SIEMs.  
-Open to internships and collaborative projects.
+<div align="center">
 
----
+# Adrià Julián
 
-##  Quick Facts
-- Current: Studying **ASIR (Ciclo Superior)** with a focus on **Cybersecurity**  
-- Focus: **Purple Team (Red + Blue)** — network security, SIEM, Linux, Windows, and automation with Python  
-- Passionate about: Blue Team tools, ethical hacking labs, and cyber defense automation  
+### Network & Security · Systems Administration · Cybersecurity
 
----
+**ASIR Student | Networking | Infrastructure | Security | Automation**
 
-## 🏅 Certifications (Completed)
-- **Pearson IT Specialist — Device and Management**  
-- **Fortinet — Cybersecurity Associate**  
-- **Fortinet — Cybersecurity Fundamentals**  
-- **Microsoft Office Specialist: Word Expert (2019)**  
-- **Microsoft Office Specialist: Excel Expert (2019)**  
-- **Microsoft Office Specialist: Access Expert (2019)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-adriajulian.com-111827?style=flat-square\&logo=googlechrome\&logoColor=white)](https://www.adriajulian.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrià%20Julián-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adriajulian/)
+[![GitHub](https://img.shields.io/badge/GitHub-AJulianSec-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AJulianSec)
+
+</div>
 
 ---
 
-#  Projects & Labs
+## Profile
 
-This repository showcases my **cybersecurity and networking projects**, including educational tools, labs, and ethical hacking exercises.  
-All projects are **for learning and authorized use only**.
+I'm an **ASIR student focused on networking, systems administration and cybersecurity**, with hands-on experience working with network infrastructure and building cybersecurity labs, security tools and automation projects.
+
+My approach is practical:
+
+> **Build → Test → Troubleshoot → Secure → Document**
+
+### Areas of Focus
+
+* Network infrastructure and security
+* Firewalls, VLANs and network segmentation
+* Linux and Windows administration
+* Blue Team / Purple Team
+* SIEM and security monitoring
+* Python automation
+* Virtualization and homelab infrastructure
+
+Based in **Barcelona, Spain** and open to **part-time opportunities in IT infrastructure, networking, systems and cybersecurity**.
 
 ---
 
-## 🔹 Featured Projects
+## Technical Skills
 
-<table style="background-color:#0d1117; color:#c9d1d9; border-radius:12px; padding:12px; width:100%; border-collapse:collapse;">
-  <tr>
-    <th style="padding:10px; border-bottom:1px solid #30363d;">Project</th>
-    <th style="padding:10px; border-bottom:1px solid #30363d;">Description</th>
-    <th style="padding:10px; border-bottom:1px solid #30363d;">Technologies</th>
-    <th style="padding:10px; border-bottom:1px solid #30363d;">Link</th>
-  </tr>
+| Area                 | Technologies / Skills                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------- |
+| **Networking**       | Cisco · Fortinet · Ubiquiti · VLANs · Routing · Switching · STP · LACP · ACLs · VPN    |
+| **Network Security** | FortiGate · pfSense · Network Segmentation · DHCP Snooping · DAI · Port Security       |
+| **Cybersecurity**    | Wazuh · Wireshark · Nmap · Metasploit · Burp Suite · SIEM · Detection · Threat Hunting |
+| **Systems**          | Linux · Windows Server · Active Directory · Apache · SSH · MariaDB                     |
+| **Virtualization**   | Proxmox · VMware · Virtual Networks · VLAN Trunking                                    |
+| **Automation**       | Python · Bash · Networking Scripts · Security Tooling                                  |
+| **Cloud**            | AWS · Microsoft Security Ecosystem                                                     |
 
-  <tr>
-    <td align="center" style="padding:15px; background-color:#0d1117;">
-      <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg" width="300"><br>
-      <b></b>
-    </td>
-    <td style="padding:15px; background-color:#0d1117;">
-      Educational tool to <b>assess password strength</b>, estimate <b>brute-force times</b>, and encrypt/decrypt text (Caesar, XOR, AES).  
-      Ideal for <b>defensive labs and cybersecurity learning</b>.
-    </td>
-    <td align="center" style="padding:15px; background-color:#0d1117;">Python, ttkbootstrap (modern UI)</td>
-    <td align="center" style="padding:15px; background-color:#0d1117;">
-      <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">
-        <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" height="60">
-      </a>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td align="center" style="padding:15px; background-color:#0d1117;">
-      <img src="https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg" width="300"><br>
-      <b></b>
-    </td>
-    <td style="padding:15px; background-color:#0d1117;">
-      Lightweight <b>network and vulnerability scanner</b>.  
-      Performs TCP/UDP scans, basic service detection, and vulnerability estimation using local signatures.  
-      Exports results to JSON/CSV.
-    </td>
-    <td align="center" style="padding:15px; background-color:#0d1117;">Python, asyncio, socket</td>
-    <td align="center" style="padding:15px; background-color:#0d1117;">
-      <a href="https://github.com/AJulianSec/SentinelScan">
-        <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" height="60">
-      </a>
-    </td>
-  </tr>
+## Professional Experience
+
+### Network Technician — IT Infrastructure
+
+**Nov 2025 – Jun 2026**
+
+Hands-on experience working with network infrastructure in production environments.
+
+**Key technologies and responsibilities:**
+
+* Fortinet FortiGate administration
+* Firewall policies and security rules
+* VLAN configuration and network segmentation
+* IPsec and SSL VPN
+* Ubiquiti / UniFi infrastructure
+* Enterprise Wi-Fi deployment
+* Network troubleshooting
+* Incident resolution
+* Client technical support
+* Network configuration and optimization
+
+This experience provided practical exposure to the relationship between **network infrastructure, security and troubleshooting in production environments**.
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CyberShield
+
+Educational cybersecurity application developed with Python.
+
+**Capabilities**
+
+* Password strength analysis
+* Brute-force time estimation
+* Caesar cipher
+* XOR encryption
+* AES encryption/decryption
+* Security-oriented GUI
+
+**Stack**
+
+`Python` `Cryptography` `ttkbootstrap`
+
+[View repository →](https://github.com/AJulianSec/CyberShield-BlueTeam-Tool)
+
+</td>
+
+<td width="50%" valign="top">
+
+### SentinelScan
+
+Python-based network reconnaissance and vulnerability analysis tool.
+
+**Capabilities**
+
+* TCP scanning
+* UDP scanning
+* Service detection
+* Network reconnaissance
+* Local vulnerability correlation
+* JSON / CSV reporting
+* Asynchronous scanning
+
+**Stack**
+
+`Python` `asyncio` `socket`
+
+[View repository →](https://github.com/AJulianSec/SentinelScan)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🔗 More Projects
+# Infrastructure Labs
 
-To explore all my repositories, click below:
+My work also includes infrastructure environments designed to reproduce real-world networking and security scenarios.
 
-<a href="https://github.com/AJulianSec?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" height="60">
-</a>
+### Enterprise Network Lab
+
+Cisco-based infrastructure implementing:
+
+* VLAN segmentation
+* Inter-VLAN routing
+* STP
+* EtherChannel / LACP
+* DHCP Snooping
+* Dynamic ARP Inspection
+* Port Security
+* BPDU Guard
+* RADIUS authentication
+* SSH administration
+* ACL-based segmentation
+* Redundant network architecture
+
+### Linux Infrastructure Lab
+
+Multi-service Linux environment including:
+
+* Apache
+* HTTPS / SSL
+* SSH
+* MariaDB
+* Node.js
+* Automated backups
+* `rsync`
+* Cron
+* Internal services
+* Database infrastructure
+
+### Virtualized Security Lab
+
+Homelab infrastructure using:
+
+* Proxmox
+* pfSense
+* VLANs
+* Virtual switches
+* Trunking
+* Firewall segmentation
+* Linux and Windows virtual machines
 
 ---
 
-## 📊 GitHub Stats
+# Certifications & Credentials
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJulianSec&layout=compact&theme=dark)  
-![Stats](https://github-readme-stats.vercel.app/api?username=AJulianSec&show_icons=true&count_private=true&theme=dark)
+### Cybersecurity
+
+* **Cisco CCST Cybersecurity**
+* **Fortinet Cybersecurity Associate**
+* **Fortinet Cybersecurity Fundamentals**
+
+### Networking & IT
+
+* **Cisco CCST Networking**
+* **Cisco CCST IT Support**
+* **Pearson IT Specialist — Device & Management**
+
+### Cloud & Networking
+
+* **AWS Application Networking Demonstrated**
+
+### Microsoft
+
+* **Microsoft Office Specialist — Word Expert 2019**
+* **Microsoft Office Specialist — Excel Expert 2019**
+* **Microsoft Office Specialist — Access Expert 2019**
 
 ---
 
-##  Badges (Certifications & Tools)
+# Current Focus
 
-![Pearson IT Specialist](https://img.shields.io/badge/Pearson-IT%20Specialist-blue?style=flat&logo=pearson)
-![Fortinet CA](https://img.shields.io/badge/Fortinet-Cybersec%20Associate-red?style=flat&logo=fortinet)
-![Microsoft Word](https://img.shields.io/badge/Microsoft-Word%20Expert-blue?style=flat&logo=microsoft-word)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel%20Expert-green?style=flat&logo=microsoft-excel)
-![Oracle DB](https://img.shields.io/badge/Oracle-Database%20Associate-red?style=flat&logo=oracle)
-![Python](https://img.shields.io/badge/Python-Scripting%20(Learn)-blue?style=flat&logo=python)
+Currently deepening my knowledge in:
+
+* **Cisco networking and CCNA topics**
+* Network security
+* SIEM and detection engineering
+* Microsoft security technologies
+* Linux administration
+* Python automation
+* Virtualized network infrastructure
+* Blue Team / Purple Team methodologies
 
 ---
 
-## 📬 Contact
+# Technologies
 
-📧 **Email:** [adriajuliansuria@gmail.com](mailto:adriajuliansuria@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/adriajulian](https://www.linkedin.com/in/adriajulian/)  
-🌐 **Portfolio:** [adriajulian.com](https://www.adriajulian.com/)  
-🐙 **GitHub:** [github.com/AJulianSec](https://github.com/AJulianSec)
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,bash,linux,windows,git,docker,aws,azure,mysql,html,css" />
 
+<br><br>
 
+`Cisco` `Fortinet` `Ubiquiti` `pfSense` `Wazuh` `Wireshark` `Nmap` `Metasploit` `Proxmox`
 
+</div>
 
+---
 
+# GitHub
 
+<div align="center">
+
+### Practical Projects · Infrastructure Labs · Cybersecurity
+
+</div>
+
+I use GitHub to document and share practical work involving **networking, systems administration, cybersecurity, automation and infrastructure**.
+
+[View all repositories →](https://github.com/AJulianSec?tab=repositories)
+
+---
+
+# Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-adriajuliansuria%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:adriajuliansuria@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrià%20Julián-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adriajulian/)
+
+[![Portfolio](https://img.shields.io/badge/Website-adriajulian.com-111827?style=flat-square\&logo=googlechrome\&logoColor=white)](https://www.adriajulian.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+**Networks · Systems · Security · Automation**
+
+*Learning by building practical infrastructure and solving technical problems.*
+
+</div>
