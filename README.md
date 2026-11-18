@@ -12,107 +12,62 @@ Primary interest: **cybersecurity and blue team / SOC roles**. Secondary focus: 
 
 ## Featured Projects
 
-### CyberShield Encryptor
+Hands-on projects across **cybersecurity, network infrastructure, and systems administration**.
 
-<a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">
-  <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg" width="900" alt="CyberShield Encryptor banner">
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">
+        <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg" width="420" alt="CyberShield Encryptor">
+      </a>
+      <h3>CyberShield Encryptor</h3>
+      <p>Password analysis and authenticated text/file encryption.</p>
+      <p><code>AES-GCM</code> <code>PBKDF2</code> <code>Python</code> <code>GUI + CLI</code></p>
+      <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">Explore project →</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/AJulianSec/SentinelScan">
+        <img src="https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg" width="420" alt="SentinelScan">
+      </a>
+      <h3>SentinelScan</h3>
+      <p>Authorized TCP/UDP scanning with offline vulnerability correlation and reports.</p>
+      <p><code>Python</code> <code>asyncio</code> <code>TCP/UDP</code> <code>JSON/CSV/HTML</code></p>
+      <a href="https://github.com/AJulianSec/SentinelScan">Explore project →</a>
+      <p><sub>For owned or explicitly authorized systems only.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://syslab.dpdns.org/">
+        <img src="./assets/syslab-lab.svg" width="420" alt="SysLab Linux and systems administration lab">
+      </a>
+      <h3>SysLab</h3>
+      <p>Practical Linux, networking, and systems administration learning lab.</p>
+      <p><code>Linux</code> <code>Bash</code> <code>Networking</code> <code>Virtualisation</code></p>
+      <a href="https://syslab.dpdns.org/">Visit SysLab →</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/AJulianSec/enterprise-network-lab-cisco">
+        <img src="./assets/enterprise-network.svg" width="420" alt="Enterprise Cisco network topology">
+      </a>
+      <h3>Enterprise Network Lab</h3>
+      <p>Multicore Cisco topology with routing, redundancy, and segmented networks.</p>
+      <p><code>Cisco IOS</code> <code>VLAN</code> <code>OSPF</code> <code>LACP</code> <code>STP</code></p>
+      <a href="https://github.com/AJulianSec/enterprise-network-lab-cisco">Explore project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <img src="./assets/intermodular-infrastructure.svg" width="420" alt="Intermodular infrastructure project">
+      <h3>PROYECTO INTERMODULAR</h3>
+      <p>Academic infrastructure project spanning network, identity, web, database, and security services.</p>
+      <p><code>Ubuntu</code> <code>pfSense</code> <code>PostgreSQL</code> <code>Samba AD</code></p>
+      <p><sub>Academic project · repository not publicly accessible · integrations in development.</sub></p>
+    </td>
+  </tr>
+</table>
 
-Python desktop application for password analysis and authenticated text/file encryption.
-
-- AES-GCM for text and file encryption.
-- PBKDF2-HMAC-SHA256 key derivation.
-- AES-128 and AES-256 modes.
-- GUI in English and Spanish.
-- Command-line interface.
-- 512 MiB file safety limit and overwrite protection.
-- Unit tests, GitHub Actions CI, Python wheel packaging, and SHA-256 integrity hashes.
-
-**Python · cryptography · Tkinter · ttkbootstrap · GitHub Actions**
-
-[View repository](https://github.com/AJulianSec/CyberShield-BlueTeam-Tool)
-
----
-
-### SentinelScan
-
-<a href="https://github.com/AJulianSec/SentinelScan">
-  <img src="https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg" width="900" alt="SentinelScan banner">
-</a>
-
-Educational scanner for authorized TCP/UDP discovery and local vulnerability correlation.
-
-- TCP and UDP checks.
-- IPv4 and IPv6 resolution.
-- Service banner collection.
-- Offline vulnerability database correlation.
-- TXT, JSON, CSV, and HTML reports.
-- Interactive and non-interactive modes.
-- Concurrency configuration and operational logging.
-- Unit tests and Windows CI.
-
-**Python · asyncio · sockets · argparse · Rich · JSON/CSV/HTML**
-
-[View repository](https://github.com/AJulianSec/SentinelScan)
-
-> SentinelScan is intended only for systems owned or explicitly authorized for testing.
-
----
-
-### SysLab
-
-Linux systems and networking laboratory with practical documentation for services, permissions, logs, automation, and security administration.
-
-**Linux · Bash · Virtualisation · Networking · Systems Administration**
-
-[Visit SysLab](https://syslab.dpdns.org/)
-
----
-
-### Enterprise Network Infrastructure
-
-<a href="https://github.com/AJulianSec/enterprise-network-lab-cisco">
-  <img src="./assets/enterprise-network.svg" width="900" alt="Enterprise network infrastructure diagram">
-</a>
-
-Configured and documented a multicore Cisco enterprise topology with redundancy and network segmentation.
-
-- Cisco core and access switching.
-- VLANs, SVIs, and inter-VLAN routing.
-- OSPF routing between core devices.
-- EtherChannel/LACP and Spanning Tree.
-- SSH and RADIUS administration.
-- DHCP Snooping and management VLAN.
-- R1/R2 routing and troubleshooting.
-- Cisco IOS configuration files for routers, cores, and switches.
-
-**Cisco IOS · Packet Tracer · VLAN · OSPF · STP · EtherChannel · LACP · SSH · RADIUS**
-
-[View repository](https://github.com/AJulianSec/enterprise-network-lab-cisco)
-
----
-
-### PROYECTO INTERMODULAR
-
-<a href="https://github.com/Ariannacabb/PROYECTO-INTERMODULAR">
-  <img src="./assets/intermodular-infrastructure.svg" width="900" alt="PROYECTO INTERMODULAR infrastructure graphic">
-</a>
-
-Integrated academic infrastructure project covering systems, networking, security, and service integration.
-
-- Enterprise network and VLAN planning.
-- Firewall configuration.
-- Samba AD and DNS project structure.
-- PostgreSQL and internal API examples.
-- NGINX web deployment.
-- BorgBackup, Wazuh, Elastic, and Ansible planning.
-- Network diagrams and infrastructure documentation.
-
-**Ubuntu · pfSense · Cisco · PostgreSQL · Samba AD · NGINX · Ansible · Wazuh · Elastic**
-
-[View repository](https://github.com/Ariannacabb/PROYECTO-INTERMODULAR)
-
-> The project is an academic in-development infrastructure framework; real service connections, certificates, and accounts require environment-specific configuration.
+> **Project evidence:** open each repository for source code, configuration files, tests, and technical documentation.
 
 ---
 

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title description">
+  <title id="title">SysLab systems administration lab</title>
+  <description id="description">Linux learning lab connecting terminal, network, services, logs, and security administration.</description>
+  <rect width="900" height="360" fill="#101923"/>
+  <rect x="80" y="52" width="740" height="250" rx="14" fill="#182632" stroke="#43C985" stroke-width="2"/>
+  <path d="M80 94h740" stroke="#344957" stroke-width="2"/>
+  <circle cx="110" cy="73" r="7" fill="#FF6B6B"/>
+  <circle cx="136" cy="73" r="7" fill="#FFD166"/>
+  <circle cx="162" cy="73" r="7" fill="#43C985"/>
+  <text x="192" y="79" fill="#B7C7D2" font-family="Consolas, monospace" font-size="16">syslab — practical systems lab</text>
+  <g font-family="Consolas, monospace" font-size="18">
+    <text x="116" y="137" fill="#43C985">$</text>
+    <text x="142" y="137" fill="#E3EDF3">linux administration</text>
+    <text x="116" y="177" fill="#43C985">$</text>
+    <text x="142" y="177" fill="#E3EDF3">networking &amp; services</text>
+    <text x="116" y="217" fill="#43C985">$</text>
+    <text x="142" y="217" fill="#E3EDF3">permissions · logs · automation</text>
+    <text x="116" y="257" fill="#43C985">$</text>
+    <text x="142" y="257" fill="#E3EDF3">security fundamentals</text>
+  </g>
+  <text x="450" y="338" fill="#7F9AAA" font-family="Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">LEARN · CONFIGURE · DOCUMENT · SECURE</text>
+</svg>
