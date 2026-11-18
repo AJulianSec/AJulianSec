@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title description">
+  <title id="title">Intermodular infrastructure diagram</title>
+  <description id="description">Virtualized infrastructure organized around network security, web, identity, database, backup, monitoring and automation services.</description>
+  <rect width="900" height="360" fill="#071827"/>
+  <g stroke="#2EBAC4" stroke-width="2" fill="none" opacity=".7">
+    <path d="M450 74V110M450 174V210M450 274V300"/>
+    <path d="M250 142H650M250 142V210M650 142V210"/>
+  </g>
+  <g fill="#102F45" stroke="#39A9C7" stroke-width="2">
+    <rect x="350" y="38" width="200" height="72" rx="12"/>
+    <rect x="120" y="110" width="170" height="64" rx="10"/>
+    <rect x="365" y="110" width="170" height="64" rx="10"/>
+    <rect x="610" y="110" width="170" height="64" rx="10"/>
+    <rect x="120" y="210" width="170" height="64" rx="10"/>
+    <rect x="365" y="210" width="170" height="64" rx="10"/>
+    <rect x="610" y="210" width="170" height="64" rx="10"/>
+  </g>
+  <g fill="#D8EAF4" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="450" y="68" font-size="20" font-weight="700">PROYECTO INTERMODULAR</text>
+    <text x="450" y="94" font-size="13">Interconnected infrastructure</text>
+    <text x="205" y="138" font-size="15">pfSense</text>
+    <text x="205" y="158" font-size="12">Firewall / Routing</text>
+    <text x="450" y="138" font-size="15">NGINX</text>
+    <text x="450" y="158" font-size="12">Web services</text>
+    <text x="695" y="138" font-size="15">Samba AD</text>
+    <text x="695" y="158" font-size="12">Identity / DNS</text>
+    <text x="205" y="238" font-size="15">PostgreSQL</text>
+    <text x="205" y="258" font-size="12">Database</text>
+    <text x="450" y="238" font-size="15">Wazuh + Elastic</text>
+    <text x="450" y="258" font-size="12">Monitoring</text>
+    <text x="695" y="238" font-size="15">Ansible</text>
+    <text x="695" y="258" font-size="12">Automation</text>
+  </g>
+  <g fill="#081827" stroke="#6FAEC5" stroke-width="2">
+    <rect x="300" y="300" width="300" height="42" rx="10"/>
+  </g>
+  <text x="450" y="326" fill="#D8EAF4" font-family="Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">VLANs · Backups · SSH/SFTP · Virtualisation · Security</text>
+</svg>

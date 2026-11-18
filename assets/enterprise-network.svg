@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title description">
+  <title id="title">Enterprise Cisco network architecture</title>
+  <description id="description">Hierarchical Cisco network with edge routers, core switches, access switches and segmented endpoints.</description>
+  <rect width="900" height="360" fill="#081827"/>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#D7E7F3" text-anchor="middle">
+    <text x="450" y="32" font-size="24" font-weight="700">Enterprise Cisco Network Infrastructure</text>
+  </g>
+  <g fill="#112F46" stroke="#49B7D8" stroke-width="2">
+    <rect x="318" y="58" width="264" height="48" rx="8"/>
+    <rect x="170" y="150" width="150" height="48" rx="8"/>
+    <rect x="375" y="150" width="150" height="48" rx="8"/>
+    <rect x="580" y="150" width="150" height="48" rx="8"/>
+  </g>
+  <g fill="#D7E7F3" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle">
+    <text x="450" y="88">R1 / R2 — Edge Routing</text>
+    <text x="245" y="180">CORE1 — L3 Switch</text>
+    <text x="450" y="180">CORE2 — L3 Switch</text>
+    <text x="655" y="180">CORE3 — L3 Switch</text>
+  </g>
+  <g stroke="#49B7D8" stroke-width="3" fill="none">
+    <path d="M450 106V150"/>
+    <path d="M320 174H375"/>
+    <path d="M525 174H580"/>
+  </g>
+  <g fill="#0E2A40" stroke="#7BA7C5" stroke-width="2">
+    <rect x="135" y="248" width="170" height="54" rx="8"/>
+    <rect x="365" y="248" width="170" height="54" rx="8"/>
+    <rect x="595" y="248" width="170" height="54" rx="8"/>
+  </g>
+  <g fill="#D7E7F3" font-family="Segoe UI, Arial, sans-serif" font-size="15" text-anchor="middle">
+    <text x="220" y="280">Access Switches</text>
+    <text x="450" y="280">VLAN Segmentation</text>
+    <text x="680" y="280">Wireless / Endpoints</text>
+  </g>
+  <g stroke="#7BA7C5" stroke-width="2" stroke-dasharray="7 5" fill="none">
+    <path d="M245 198V248"/>
+    <path d="M450 198V248"/>
+    <path d="M655 198V248"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#72C4DA" text-anchor="middle">
+    <text x="450" y="126">OSPF · Default Routes · Management</text>
+    <text x="450" y="328">EtherChannel / LACP · STP · SSH · RADIUS · DHCP Snooping</text>
+  </g>
+</svg>

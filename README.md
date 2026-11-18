@@ -1,82 +1,240 @@
-# 👋 Hi, I'm Adrià Julián (AJulianSec)
+# Hi, I'm Adrià Julián <br> Cybersecurity, Networks & IT Infrastructure
 
-**Student · ASIR (Systems Administration) | Cybersecurity & Networks Enthusiast**  
-Building a career at the intersection of networks, systems, and security. I create labs, automate workflows with Python, and build detection/playbooks for SIEMs.  
-Open to internships and collaborative projects.
+**Cybersecurity-focused ASIR student | Network and IT support experience | Blue Team laboratories**
 
----
+I build defensive-security and network laboratories focused on monitoring, incident analysis, firewalling, segmentation, traffic analysis, Linux systems, and Python automation. My IT-support experience provides a practical foundation in connectivity, VPN, Wi-Fi, firewalling, switches, and troubleshooting.
 
-## 🎯 Quick Facts
-- 🎓 Studying **ASIR (Ciclo Superior)** with a specialization in **Cybersecurity**  
-- 🧠 Focus: **Purple Team** (Red + Blue) — network security, SIEM, Linux, Windows, automation with Python  
-- 🌍 Based in Molins de Rei, Barcelona (Spain)
+Primary interest: **cybersecurity and blue team / SOC roles**. Secondary focus: **network security and IT infrastructure**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-AJulianSec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJulianSec)
 
 ---
 
-## 🏅 Certifications (Completed)
-- **Pearson IT Specialist — Device and Management**  
-- **Fortinet — Cybersecurity Associate**  
-- **Fortinet — Cybersecurity Fundamentals**  
-- **Microsoft Office Specialist: Word Expert (2019)**  
-- **Microsoft Office Specialist: Excel Expert (2019)**  
-- **Microsoft Office Specialist: Access Expert (2019)**
+## Featured Projects
 
----
+### CyberShield Encryptor
 
-## 🚀 Featured Project
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/assets/cybershield_encryptor.png" width="95%" alt="CyberShield Encryptor">
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ CyberShield Encryptor — Blue Team Tool
-**Educational and ethical cybersecurity tool** for password strength evaluation, brute-force estimation, and text encryption/decryption (Caesar, XOR, AES).  
-
-**Key Features:**
-- Password complexity checker with real-time feedback  
-- Brute-force time estimator (PC / GPU / Cluster profiles)  
-- Multiple encryption algorithms: Caesar, XOR, AES-128/256  
-- Modern Python GUI built with **ttkbootstrap**
-
-<br>
-
-<a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link">
+<a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">
+  <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg" width="900" alt="CyberShield Encryptor banner">
 </a>
 
-</td>
-</tr>
-</table>
+Python desktop application for password analysis and authenticated text/file encryption.
+
+- AES-GCM for text and file encryption.
+- PBKDF2-HMAC-SHA256 key derivation.
+- AES-128 and AES-256 modes.
+- GUI in English and Spanish.
+- Command-line interface.
+- 512 MiB file safety limit and overwrite protection.
+- Unit tests, GitHub Actions CI, Python wheel packaging, and SHA-256 integrity hashes.
+
+**Python · cryptography · Tkinter · ttkbootstrap · GitHub Actions**
+
+[View repository](https://github.com/AJulianSec/CyberShield-BlueTeam-Tool)
 
 ---
 
-## 📊 GitHub Stats
+### SentinelScan
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJulianSec&layout=compact&theme=tokyonight)  
-![Stats](https://github-readme-stats.vercel.app/api?username=AJulianSec&show_icons=true&count_private=true&theme=tokyonight)
+<a href="https://github.com/AJulianSec/SentinelScan">
+  <img src="https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg" width="900" alt="SentinelScan banner">
+</a>
+
+Educational scanner for authorized TCP/UDP discovery and local vulnerability correlation.
+
+- TCP and UDP checks.
+- IPv4 and IPv6 resolution.
+- Service banner collection.
+- Offline vulnerability database correlation.
+- TXT, JSON, CSV, and HTML reports.
+- Interactive and non-interactive modes.
+- Concurrency configuration and operational logging.
+- Unit tests and Windows CI.
+
+**Python · asyncio · sockets · argparse · Rich · JSON/CSV/HTML**
+
+[View repository](https://github.com/AJulianSec/SentinelScan)
+
+> SentinelScan is intended only for systems owned or explicitly authorized for testing.
 
 ---
 
-## 🧩 Badges & Tools
+### SysLab
 
-![Pearson IT Specialist](https://img.shields.io/badge/Pearson-IT%20Specialist-blue?style=flat-square&logo=pearson)
-![Fortinet Associate](https://img.shields.io/badge/Fortinet-Cybersecurity%20Associate-red?style=flat-square&logo=fortinet)
-![Microsoft Word](https://img.shields.io/badge/Microsoft-Word%20Expert-blue?style=flat-square&logo=microsoft-word)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel%20Expert-green?style=flat-square&logo=microsoft-excel)
-![Python](https://img.shields.io/badge/Python-Scripting-blue?style=flat-square&logo=python)
-![Oracle](https://img.shields.io/badge/Oracle-Database-red?style=flat-square&logo=oracle)
+Linux systems and networking laboratory with practical documentation for services, permissions, logs, automation, and security administration.
+
+**Linux · Bash · Virtualisation · Networking · Systems Administration**
+
+[Visit SysLab](https://syslab.dpdns.org/)
 
 ---
 
-## 📫 Contact
+### Enterprise Network Infrastructure
 
-- 📧 **Email:** [adriajuliansuria@gmail.com](mailto:adriajuliansuria@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/adriajulian](https://www.linkedin.com/in/adriajulian/)  
-- 🌐 **Portfolio:** [adriajulian.com](http://adriajulian.com/)  
-- 🧑‍💻 **GitHub:** [github.com/AJulianSec](https://github.com/AJulianSec)
+<a href="https://github.com/AJulianSec/enterprise-network-lab-cisco">
+  <img src="./assets/enterprise-network.svg" width="900" alt="Enterprise network infrastructure diagram">
+</a>
 
+Configured and documented a multicore Cisco enterprise topology with redundancy and network segmentation.
 
+- Cisco core and access switching.
+- VLANs, SVIs, and inter-VLAN routing.
+- OSPF routing between core devices.
+- EtherChannel/LACP and Spanning Tree.
+- SSH and RADIUS administration.
+- DHCP Snooping and management VLAN.
+- R1/R2 routing and troubleshooting.
+- Cisco IOS configuration files for routers, cores, and switches.
 
+**Cisco IOS · Packet Tracer · VLAN · OSPF · STP · EtherChannel · LACP · SSH · RADIUS**
+
+[View repository](https://github.com/AJulianSec/enterprise-network-lab-cisco)
+
+---
+
+### PROYECTO INTERMODULAR
+
+<a href="https://github.com/Ariannacabb/PROYECTO-INTERMODULAR">
+  <img src="./assets/intermodular-infrastructure.svg" width="900" alt="PROYECTO INTERMODULAR infrastructure graphic">
+</a>
+
+Integrated academic infrastructure project covering systems, networking, security, and service integration.
+
+- Enterprise network and VLAN planning.
+- Firewall configuration.
+- Samba AD and DNS project structure.
+- PostgreSQL and internal API examples.
+- NGINX web deployment.
+- BorgBackup, Wazuh, Elastic, and Ansible planning.
+- Network diagrams and infrastructure documentation.
+
+**Ubuntu · pfSense · Cisco · PostgreSQL · Samba AD · NGINX · Ansible · Wazuh · Elastic**
+
+[View repository](https://github.com/Ariannacabb/PROYECTO-INTERMODULAR)
+
+> The project is an academic in-development infrastructure framework; real service connections, certificates, and accounts require environment-specific configuration.
+
+---
+
+## Core Technical Skills
+
+### Systems and Networks
+
+![Fortinet](https://img.shields.io/badge/Fortinet-FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-Wi--Fi-0559C9?style=flat)
+![VPN](https://img.shields.io/badge/VPN-IPsec%20%7C%20SSL-607D8B?style=flat)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-212121?style=flat)
+![Sophos](https://img.shields.io/badge/Sophos-Firewall-EE1B2D?style=flat)
+![VMware](https://img.shields.io/badge/VMware-Virtualisation-607078?style=flat&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-Virtualisation-E57000?style=flat)
+![Red Hat](https://img.shields.io/badge/Red_Hat-Linux-EE0000?style=flat&logo=redhat&logoColor=white)
+
+### Security and Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=flat)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
+
+**Primary areas:** Wazuh SIEM · incident and log analysis · network traffic analysis · firewall and VPN security · VLAN segmentation · defensive laboratories · threat detection · Python automation
+
+**Supporting areas:** FortiGate/Sophos policies · UniFi Wi-Fi · switching and routing · Linux/Windows administration · VMware/Proxmox virtualisation · Wireshark, Nmap, Metasploit and Burp Suite · Elastic · SQL databases
+
+---
+
+## Practical Experience
+
+### Network Technician — Internship
+
+**November 2025 – June 2026**
+
+- Diagnosed and tracked user, connectivity, and network incidents for multiple customers.
+- Supported the review and configuration of Fortinet FortiGate security policies.
+- Assisted with UniFi and Fortinet access points and Wi-Fi segmentation.
+- Supported VPN IPsec/SSL configuration and remote-access connectivity checks.
+- Assisted with switch configuration and basic routing reviews.
+- Contributed to firewall, VLAN, Wi-Fi, and continuity troubleshooting.
+
+---
+
+## Certifications
+
+- Cisco — CCST Cybersecurity
+- Fortinet — Cybersecurity Associate
+- Cisco — CCST Networking
+- Cisco — CCST IT Support
+- Microsoft — MOS Excel Expert 2019
+- Microsoft — MOS Word Expert 2019
+- Microsoft — MOS Access Expert 2019
+- Pearson — IT Specialist: Device & Management
+- AWS — Application Networking Demonstrated
+- Fortinet — Cybersecurity Fundamentals
+
+Verified credential profile: [Credly](https://www.credly.com/users/adria-julian)
+
+---
+
+## Training
+
+- **Cybersecurity and Ethical Hacking Course** — BIG school — March 2026
+- **Python Essentials 2** — Cisco Networking Academy — January 2026
+- **Python Fundamentals 1** — Cisco Networking Academy — December 2025
+
+Formal education:
+
+- **CFGS ASIR with cybersecurity profile** — CEV — 2025 to present
+- **CFGM Computer Systems and Networks** — CEV — 2023 to 2025
+
+---
+
+## Labs and Platforms
+
+- **Hack The Box:** controlled offensive labs, enumeration, foothold, privilege escalation, and post-exploitation.
+- **TryHackMe:** guided labs for networks, Linux, and offensive security.
+- **CyberDefenders:** incident analysis, DFIR, forensics, and threat detection.
+
+---
+
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJulianSec&layout=compact&theme=tokyonight" alt="Top languages">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AJulianSec&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub statistics">
+
+---
+
+## Career Objective
+
+Entry-level opportunities in **SOC/blue team operations, security analysis, incident analysis, network security, or cybersecurity support**.
+
+I am developing practical skills in log and alert analysis, incident investigation, network segmentation, firewall configuration, traffic analysis, security documentation, automation, and incident response through controlled laboratories.
+
+---
+
+## Source Verification
+
+Use this PowerShell command to calculate and display the SHA-256 hash of every Python source file:
+
+```powershell
+Get-FileHash *.py | Format-Table Algorithm, Hash, Path -AutoSize
+```
+
+---
+
+## Professional Profiles
+
+- **GitHub:** [github.com/AJulianSec](https://github.com/AJulianSec)
