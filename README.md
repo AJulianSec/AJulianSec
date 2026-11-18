@@ -12,62 +12,91 @@ Primary interest: **cybersecurity and blue team / SOC roles**. Secondary focus: 
 
 ## Featured Projects
 
-Hands-on projects across **cybersecurity, network infrastructure, and systems administration**.
+Hands-on work across **cybersecurity, network infrastructure, and systems administration**. Each card links directly to a public project.
 
 <table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">
-        <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg" width="420" alt="CyberShield Encryptor">
-      </a>
-      <h3>CyberShield Encryptor</h3>
-      <p>Password analysis and authenticated text/file encryption.</p>
-      <p><code>AES-GCM</code> <code>PBKDF2</code> <code>Python</code> <code>GUI + CLI</code></p>
-      <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">Explore project →</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/AJulianSec/SentinelScan">
-        <img src="https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg" width="420" alt="SentinelScan">
-      </a>
-      <h3>SentinelScan</h3>
-      <p>Authorized TCP/UDP scanning with offline vulnerability correlation and reports.</p>
-      <p><code>Python</code> <code>asyncio</code> <code>TCP/UDP</code> <code>JSON/CSV/HTML</code></p>
-      <a href="https://github.com/AJulianSec/SentinelScan">Explore project →</a>
-      <p><sub>For owned or explicitly authorized systems only.</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://syslab.dpdns.org/">
-        <img src="./assets/syslab-lab.svg" width="420" alt="SysLab Linux and systems administration lab">
-      </a>
-      <h3>SysLab</h3>
-      <p>Practical Linux, networking, and systems administration learning lab.</p>
-      <p><code>Linux</code> <code>Bash</code> <code>Networking</code> <code>Virtualisation</code></p>
-      <a href="https://syslab.dpdns.org/">Visit SysLab →</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/AJulianSec/enterprise-network-lab-cisco">
-        <img src="./assets/enterprise-network.svg" width="420" alt="Enterprise Cisco network topology">
-      </a>
-      <h3>Enterprise Network Lab</h3>
-      <p>Multicore Cisco topology with routing, redundancy, and segmented networks.</p>
-      <p><code>Cisco IOS</code> <code>VLAN</code> <code>OSPF</code> <code>LACP</code> <code>STP</code></p>
-      <a href="https://github.com/AJulianSec/enterprise-network-lab-cisco">Explore project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <img src="./assets/intermodular-infrastructure.svg" width="420" alt="Intermodular infrastructure project">
-      <h3>PROYECTO INTERMODULAR</h3>
-      <p>Academic infrastructure project spanning network, identity, web, database, and security services.</p>
-      <p><code>Ubuntu</code> <code>pfSense</code> <code>PostgreSQL</code> <code>Samba AD</code></p>
-      <p><sub>Academic project · repository not publicly accessible · integrations in development.</sub></p>
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td width="28%" align="center" valign="middle">
+        <a href="https://github.com/AJulianSec/SentinelScan">
+          <img src="https://raw.githubusercontent.com/AJulianSec/SentinelScan/main/logo_sentinel_scan.jpg" width="220" alt="SentinelScan project">
+        </a>
+      </td>
+      <td valign="top">
+        <h3>SentinelScan</h3>
+        <p><strong>What it does:</strong> Performs authorized TCP/UDP checks and correlates captured service banners with a local educational vulnerability database.</p>
+        <p><strong>Highlights:</strong> IPv4/IPv6 resolution · concurrency controls · TXT/JSON/CSV/HTML reports · Windows CI.</p>
+        <p><code>Python</code> <code>asyncio</code> <code>sockets</code> <code>Rich</code></p>
+        <a href="https://github.com/AJulianSec/SentinelScan"><img src="https://img.shields.io/badge/OPEN_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open SentinelScan repository"></a>
+        <p><sub>For systems you own or are explicitly authorized to test.</sub></p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-> **Project evidence:** open each repository for source code, configuration files, tests, and technical documentation.
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="28%" align="center" valign="middle">
+        <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool">
+          <img src="https://raw.githubusercontent.com/AJulianSec/CyberShield-BlueTeam-Tool/main/cybershieldencryptor_BANNER.jpg" width="220" alt="CyberShield Encryptor project">
+        </a>
+      </td>
+      <td valign="top">
+        <h3>CyberShield Encryptor</h3>
+        <p><strong>What it does:</strong> Analyzes password characteristics and encrypts text or files with authenticated AES-GCM.</p>
+        <p><strong>Highlights:</strong> PBKDF2 key derivation · AES-128/256 · English/Spanish GUI · CLI · file overwrite protection · automated tests.</p>
+        <p><code>Python</code> <code>AES-GCM</code> <code>PBKDF2</code> <code>GUI + CLI</code></p>
+        <a href="https://github.com/AJulianSec/CyberShield-BlueTeam-Tool"><img src="https://img.shields.io/badge/OPEN_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open CyberShield repository"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="28%" align="center" valign="middle">
+        <a href="https://github.com/AJulianSec/enterprise-network-lab-cisco">
+          <img src="./assets/enterprise-network.svg" width="220" alt="Enterprise Cisco network topology">
+        </a>
+      </td>
+      <td valign="top">
+        <h3>Enterprise Network Lab</h3>
+        <p><strong>What it does:</strong> Documents a redundant, segmented Cisco enterprise network with a three-switch core and access layer.</p>
+        <p><strong>Highlights:</strong> VLANs/SVIs · OSPF · EtherChannel/LACP · STP · SSH/RADIUS · DHCP Snooping.</p>
+        <p><code>Cisco IOS</code> <code>Routing</code> <code>Switching</code> <code>Network Security</code></p>
+        <a href="https://github.com/AJulianSec/enterprise-network-lab-cisco"><img src="https://img.shields.io/badge/OPEN_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Enterprise Network Lab repository"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="28%" align="center" valign="middle">
+        <a href="https://syslab.dpdns.org/">
+          <img src="./assets/syslab-lab.svg" width="220" alt="SysLab Linux administration lab">
+        </a>
+      </td>
+      <td valign="top">
+        <h3>SysLab</h3>
+        <p><strong>What it does:</strong> A practical learning lab for Linux administration, networking, services, permissions, logs, and security.</p>
+        <p><code>Linux</code> <code>Bash</code> <code>Networking</code> <code>Systems Administration</code></p>
+        <a href="https://syslab.dpdns.org/"><img src="https://img.shields.io/badge/VISIT_SYSLAB-0A7F50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit SysLab website"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+> **Academic project in development:** PROYECTO INTERMODULAR covers networking, identity, web, database, and security services. Its repository is not publicly accessible yet, so it is not shown with a broken or private-project button.
 
 ---
 
@@ -178,17 +207,7 @@ Entry-level opportunities in **SOC/blue team operations, security analysis, inci
 
 I am developing practical skills in log and alert analysis, incident investigation, network segmentation, firewall configuration, traffic analysis, security documentation, automation, and incident response through controlled laboratories.
 
----
 
-## Source Verification
-
-Use this PowerShell command to calculate and display the SHA-256 hash of every Python source file:
-
-```powershell
-Get-FileHash *.py | Format-Table Algorithm, Hash, Path -AutoSize
-```
-
----
 
 ## Professional Profiles
 
